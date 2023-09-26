@@ -70,8 +70,8 @@ const initial = {
     language: "en-US",
     cluster: {
       radius: 30,
-      minZoom: 2,
-      maxZoom: 16,
+      minZoom: 0,
+      maxZoom: 0,
     },
     timeline: {
       dimensions: {
